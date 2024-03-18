@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Won Hair Women Retextured</name>
+	<author>Neronix17</author>
+	<packageId>Neronix17.Retexture.WonHairWomen</packageId>
+	<url>https://www.patreon.com/neronix17</url>
+	<supportedVersions>
+		<li>1.4</li>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>Just a simple retexture of Won Hair Women, making them higher resolution for a cleaner result and closer to the vanilla style.</description>
+    <modDependencies>
+		<li>
+			<packageId>won2.hair</packageId>
+			<displayName>Won hair_women</displayName>
+			<steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1886150617</steamWorkshopUrl>
+		</li>
+    </modDependencies>
+	<loadAfter>
+		<li>won2.hair</li>
+	</loadAfter>
+</ModMetaData>
